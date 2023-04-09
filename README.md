@@ -1,4 +1,5 @@
 ## A Data Scraping Adventure in the World of Airbnb Ratings
+
 The objective of this project is to extract data from Airbnb's website in order to understand the
 factors that impact Airbnb ratings. We scraped data from the Airbnb website for three different
 states and captured details on factors such as price, discount, amenities, location, ratings, and
